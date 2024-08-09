@@ -11,3 +11,6 @@ A skeleton of (YouTube, I guess) a video delivery platform where users can uploa
 
 can't wait til I commit my private keys for this! haha!
 
+** please do not actually deploy this code : there are currently no checks to filter the content that is uploaded.
+** This boils down to: illegal content can be uploaded to this service. So unless you implement this yourself, this is dangerous and a liability.
+
