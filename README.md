@@ -14,3 +14,4 @@ can't wait til I commit my private keys for this! haha!
 ** please do not actually deploy this code : there are currently no checks to filter the content that is uploaded.
 ** This boils down to: illegal content can be uploaded to this service. So unless you implement this yourself, this is dangerous and a liability.
 
+This addition to the readme is just a test to see if github will still differntiate between me (the writer) and me (the commmitter) even though I am the same person and wrote and pushed this to github on the same machine :)
